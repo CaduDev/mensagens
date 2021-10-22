@@ -19,7 +19,7 @@
 ##### `yarn install` To install all Node.js packages that are needed
 ##### `yarn sequelize db:create` To create the mysql database
 ##### `yarn sequelize db:migrate` To create the tables
-##### `yarn sequelize db:seed:all` To create an admin@admin login
+##### `yarn sequelize db:seed:all` To create random messages
 ##### `yarn start` To start project
 ##### The backend project will run on port :3333. copy `http://localhost:3333` and paste into your browser
 ###### for the frontend to access the api routes you will need to change the `baseURL` of the `./frontend/src/services/api.js` file.
