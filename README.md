@@ -14,10 +14,18 @@
 - look for the section `Wi-Fi Wireless Network Adapter:` and enter the IPv4 address by adding `:3000` in your mobile device browser
 
 ##
+
+#### You need to have `MYSQL` installed and running on your machine
+##### `yarn install` To install all Node.js packages that are needed
+##### `yarn sequelize db:create` To create the mysql database
+##### `yarn sequelize db:migrate` To create the tables
+##### `yarn sequelize db:seed:all` To create an admin@admin login
+##### `yarn start` To start project
 ##### The backend project will run on port :3333. copy `http://localhost:3333` and paste into your browser
+
 ###### for the frontend to access the api routes you will need to change the `baseURL` of the `./frontend/src/services/api.js` file.
 - open CMD and type ipconfig
-- look for the section `Wi-Fi Wireless Network Adapter:` and copy the IPv4 address by adding `: 3333` and replace the value of the variable `baseURL`
+- look for the section `Wi-Fi Wireless Network Adapter:` and copy the IPv4 address by adding `:3333` and replace the value of the variable `baseURL`
 - 
 
 ## Tech
