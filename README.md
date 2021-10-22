@@ -11,7 +11,7 @@
 ##### The frontend project will automatically open in your browser, but if not, copy and paste into your browser. `http://localhost:3000`
 ###### to run the project from your mobile device, you will need to access by IP the route and port where the project is started.
 - open CMD and type ipconfig
-- look for the section `Wi-Fi Wireless Network Adapter:` and enter the IPv4 address (adding `: 3000` at the end
+- look for the section `Wi-Fi Wireless Network Adapter:` and enter the IPv4 address (adding `:3000` at the end
  getting `http://xxx.xxx.x:3000`) in your mobile device's browser
 ### To start the `API` access the root of the backend folder, open your terminal and follow the steps below
 
