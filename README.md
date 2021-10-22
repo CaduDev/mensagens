@@ -22,7 +22,7 @@
 ##### `yarn sequelize db:seed:all` To create random messages
 ##### `yarn start` To start project
 ##### The backend project will run on port :3333. copy `http://localhost:3333` and paste into your browser
-###### for the frontend to access the api routes you will need to change the `baseURL` of the `./frontend/src/services/api.js` file.
+###### for the frontend to access API routes from a mobile device you will need to change the `baseURL` of the file`. / frontend / src / services / api.js`.
 - open CMD and type ipconfig
 - look for the `Wi-Fi wireless network adapter:` section and copy the IPv4 address and add `:3333` (looking something like `http://xxx.xxx.x:3333`) then replace the variable value` baseURL` in the file that is located `./frontend/src/services/api.js`
 ## Tech
