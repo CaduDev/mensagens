@@ -48,6 +48,6 @@
 </div>
 
 ##
-
-![img](https://i.imgur.com/JoE4cwM.jpg) ![img](https://i.imgur.com/hKqQYJx.jpg)
+<img src="https://i.imgur.com/JoE4cwM.jpg">
+<img src="https://i.imgur.com/hKqQYJx.jpg" width="50%">
 
