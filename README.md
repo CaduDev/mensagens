@@ -49,7 +49,7 @@
 
 ##
 
- <div style="display:flex;">
+ <div style="display:flex;justify-content:center;align-items:center;">
   <img src="https://i.imgur.com/JoE4cwM.jpg" width="60%">
   <img src="https://i.imgur.com/hKqQYJx.jpg" width="30%">
  </div>
