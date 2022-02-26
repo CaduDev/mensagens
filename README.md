@@ -48,6 +48,8 @@
 </div>
 
 ##
-<img src="https://i.imgur.com/JoE4cwM.jpg">
-<img src="https://i.imgur.com/hKqQYJx.jpg" width="50%">
+<div style="display:flex;">
+ <img src="https://i.imgur.com/JoE4cwM.jpg" width="60%">
+ <img src="https://i.imgur.com/hKqQYJx.jpg" width="40%">
+</div>
 
